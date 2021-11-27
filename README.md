@@ -4,6 +4,8 @@ this task is an image classifier for Tuberculosis prediction. at the end of this
 
 # what is Tuberculosis ?
 Tuberculosis (TB) is a bacterial infection spread through inhaling tiny droplets from the cough or sneeze of an infected person.It usually affects the lungs, but can also affect the abdomen, glands, bones and nervous system.
+
+
 tuberculosis
 ![image](https://user-images.githubusercontent.com/78665241/143688117-8c868275-dc78-454e-aad6-d5ba95741969.png)
 
